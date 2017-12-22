@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SatViewer</string>
+    <string name="title_activity_satellites_list">SatellitesListActivity</string>
+
+    <!-- Error messages -->
+    <string name="error_msg">An error has occurred. Please try again.</string>
+    <string name="correct_orientation">Please rotate device</string>
+    <string name="permission_missing_message">Permission not granted</string>
+
+    <!-- Menu title -->
+    <string name="action_search">Search</string>
+
+    <!--Finder Activity-->
+    <string name="first">Move your Device in Specified Direction</string>
+    <string name="second">The arrows point towards the Satellite.</string>
+</resources>
